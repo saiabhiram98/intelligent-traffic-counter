@@ -18,7 +18,7 @@ This project implements an AI-powered traffic monitoring system using **YOLOv8**
 
 ## 📂 Project Structure  
 ```
-├── data/                # Input video(s) or sample feed  
+├── data/                # Input video
 ├── outputs/             # Generated results (video + masks)  
 ├── src/                 # Source code  
 │   ├── detection.py     # Object detection & tracking  
